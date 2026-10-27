@@ -11,7 +11,7 @@ INTRO = (
 FUN_FACTS = [
     "I love theology and religion",
     "I’m learning arabic currently",
-    "I want to build anything honestly, my interests can be found anywhere so long as we dive deep enough,
+    "I want to build anything honestly, my interests can be found anywhere so long as we dive deep enough,"
 ]
 
 
